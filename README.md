@@ -8,6 +8,12 @@ This Solo Challenge gives students and instructors the opportunity to get a puls
 - Students should use this as an opportunity to challenge themselves and work completely independently. Google can (and probably should!) be used, but peers or mentors should not be consulted and any other code base should not be referenced.
 - Instructors will be able to use your work, both completion of functionality and code quality, to determine where you stand and if you are behind for this point in the module, provide supports to intervene.
 
+Your challenge it to recreate the functionality you see on this site: https://turingschool.github.io/emojional-js/
+
+Here's an example of what it will look like and do:
+
+![emojional-giphy](https://user-images.githubusercontent.com/25447342/69885271-92c67f80-1299-11ea-9c50-fb0f525c7d9e.gif)
+
 ## Setup
 
 - Fork this repo to your account
