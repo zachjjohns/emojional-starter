@@ -1,0 +1,50 @@
+body {
+  background-image: linear-gradient(to right, #051937, #00466d, #007999, #00aeb1, #33e3b6);
+  height: 100vh;
+}
+
+section {
+  background: white;
+  border-radius: 3px;
+  height: 225px;
+  margin: 0 auto;
+  margin-top: 50px;
+  padding: 5px 15px;
+  text-align: center;
+  width: 50%;
+}
+
+h2 {
+  font-family: 'Montserrat';
+}
+
+.prompt {
+  font-family: 'Montserrat';
+}
+
+button {
+  cursor: pointer;
+  background: #fff;
+  border: none;
+  font-size: 40px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.message {
+  color: #007999;
+  font-family: 'Montserrat';
+}
+
+
+@media screen and (max-width: 900px) {
+  section {
+    width: 70%;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  section {
+    width: 90%;
+  }
+}
