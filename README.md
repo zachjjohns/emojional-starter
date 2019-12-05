@@ -42,7 +42,7 @@ Implement the same functionality you did on one button, on all three buttons.
 
 **Iteration 2:** Level Up
 
-As a user, it may be a little confusing if you get the sme response twice in a row (you may wonder, did that "work"?). Write your code in a way that doesn't allow a user to get a "random" answer two times a row.
+As a user, it may be a little confusing if you get the sme response twice in a row (you may wonder, did that "work"?). Write your code in a way that doesn't allow a user to get a "random" answer two times a row. You may have noticed that the "example" site linked above does not have this functionality.
 
 ### Possible Responses
 
