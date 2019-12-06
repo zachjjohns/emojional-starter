@@ -24,21 +24,22 @@ When you open the project in your text editor and the browser, you'll notice tha
 
 ## Submission
 
-**At or before noon**, push your code to a GitHub repository and deploy to GH pages. Complete the provided submission form in your channel to share your work with us.
+**At or before noon**, push your code to your GitHub repository and deploy to GH pages. Complete the provided submission form in your channel to share your work with us.
 
 ## Workflow
 
-Commit at the end of each iteration (if not more frequently) so we can see the progression and timestamps of your work.
+To keep up with good habits, it's recommended to make a branch for each iteration, with several commits per branch.
 
 **Iteration 0:** MVP - one emotion
 
-Only worry about one of the emoji buttons for now.
+Only worry about _one_ of the emoji buttons for now.
 - When the user clicks that button, they should see one of the three responses associated with that button. 
 - When the user clicks it again, they should see one of the three responses, potentially a different response than previous.
+- The user should **not** be able to identify a pattern in regards to the order they see the responses.
 
 **Iteration 1:** All the Feels
 
-Implement the same functionality you did on one button, on all three buttons. 
+Implement the same functionality you did on one button, but on all three buttons now. 
 
 **Iteration 2:** Level Up
 
