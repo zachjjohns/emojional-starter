@@ -16,15 +16,19 @@ Here's an example of what it will look like and do:
 
 ## Setup
 
-- Fork this repo to your account
-- Clone your copy of the repo down to your machine
+Choose ONE computer to work on. We highly recommend finding a pairing station and plugging into a monitor so you can see better!
+- Clone this repo down to the selected machine
 - Read this README thoroughly, then begin working!
 
 When you open the project in your text editor and the browser, you'll notice that the HTML and CSS have been written - your job is to implement the functionality with JavaScript! If you would like to change any class or ID names, be our guest.
 
-## Submission
+## Submission - Round 1
 
 **At or before noon**, push your code to your GitHub repository and deploy to GH pages. Complete the provided submission form in your channel to share your work with us.
+
+## Submission - Pair Challenge
+
+You will not submit your work, instead a short reflection on your process!
 
 ## Workflow
 
