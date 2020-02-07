@@ -24,11 +24,7 @@ When you open the project in your text editor and the browser, you'll notice tha
 
 ## Submission - Round 1
 
-**At or before noon**, push your code to your GitHub repository and deploy to GH pages. Complete the provided submission form in your channel to share your work with us.
-
-## Submission - Pair Challenge
-
-You will not submit your work, instead a short reflection on your process!
+**At or before 11:30**, push your code to your GitHub repository and deploy to GH pages. Complete the provided submission form in your channel to share your work with us. 
 
 ## Workflow
 
