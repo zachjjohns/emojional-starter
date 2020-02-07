@@ -5,7 +5,7 @@
 
 This Solo Challenge gives students and instructors the opportunity to get a pulse on where you are with the foundational concepts of Module 1 curriculum.
 
-- Students should use this as an opportunity to challenge themselves and work completely independently. Google can (and probably should!) be used, but peers or mentors should not be consulted and any other code base should not be referenced.
+- Students should use this as an opportunity to challenge themselves and work completely independently. Google can (and probably should!) be used, but peers or mentors should be your last resort.
 - Instructors will be able to use your work, both completion of functionality and code quality, to determine where you stand and if you are behind for this point in the module, provide supports to intervene.
 
 Your challenge it to recreate the functionality you see on this site: https://turingschool.github.io/emojional-js/
@@ -16,11 +16,11 @@ Here's an example of what it will look like and do:
 
 ## Setup
 
-Choose ONE computer to work on. We highly recommend finding a pairing station and plugging into a monitor so you can see better!
-- Clone this repo down to the selected machine
+- Fork this repository to your GitHub account
+- Clone your version of the repo down to your selected machine
 - Read this README thoroughly, then begin working!
 
-When you open the project in your text editor and the browser, you'll notice that the HTML and CSS have been written - your job is to implement the functionality with JavaScript! If you would like to change any class or ID names, be our guest.
+When you open the project in your text editor and the browser, you'll notice that the HTML and CSS have been written - your job is to implement the functionality with JavaScript! If you would like to change any class or ID names currently in the HTML, be our guest.
 
 ## Submission - Round 1
 
