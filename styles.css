@@ -15,11 +15,11 @@ section {
 }
 
 h2 {
-  font-family: 'Montserrat' sans-serif;
+  font-family: 'Montserrat', sans-serif;
 }
 
 .prompt {
-  font-family: 'Montserrat' sans-serif;
+  font-family: 'Montserrat', sans-serif;
 }
 
 button {
@@ -33,7 +33,7 @@ button {
 
 .message {
   color: #007999;
-  font-family: 'Montserrat' sans-serif;
+  font-family: 'Montserrat', sans-serif;
 }
 
 
