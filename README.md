@@ -1,7 +1,7 @@
 # Emojional
 ### FE1 Solo Challenge
 
-Your challenge it to recreate the functionality you see on this site: https://turingschool.github.io/emojional-js/
+Your challenge is to recreate the functionality you see on this site: https://turingschool.github.io/emojional-js/
 
 Here's an example of what it will look like and do:
 
@@ -13,10 +13,6 @@ Here's an example of what it will look like and do:
 - Read this README thoroughly, then begin working!
 
 When you open the project in your text editor and the browser, you'll notice that the HTML and CSS have been written - your job is to implement the functionality with JavaScript! 
-
-## Submission - Round 1
-
-**At or before 11:30**, push your code to your GitHub repository and deploy to GH pages. Complete the provided submission form in your channel to share your work with us. 
 
 ## Workflow
 
