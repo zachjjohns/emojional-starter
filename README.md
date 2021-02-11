@@ -31,24 +31,8 @@ Implement the same functionality you did on one button, but on all three buttons
 
 **Iteration 2:** Level Up
 
-As a user, it may be a little confusing if you get the sme response twice in a row (you may wonder, did that "work"?). Write your code in a way that doesn't allow a user to get a "random" answer two times a row. You may have noticed that the "example" site linked above does not have this functionality.
+As a user, it may be a little confusing if you get the same response twice in a row (you may wonder, did that "work"?). Write your code in a way that doesn't allow a user to get a "random" answer two times a row. You may have noticed that the "example" site linked above does not have this functionality.
 
 ### Possible Responses
 
-You are not required to use these specific phrases, we just provide them to save you time!
-
-**Very Happy Emoji**
-- "You go!"
-- "Your smile just cheered me up!"
-- "YAY!"
-
-**Silly Emoji**
-- "Interesting response"
-- "Sounds ... good?"
-- "Me too."
-
-**Sad Emoji**
-- "Do you want to talk?"
-- "Keep your head up"
-- "We can cry together!"
-- "What can I do?"
+Possible reponses for each emoji are stored in an object in your JavaScript file. Feel free to change or add to this list if you'd like!
