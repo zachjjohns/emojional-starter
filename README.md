@@ -26,7 +26,7 @@ Only worry about _one_ of the emoji buttons for now.
 
 Implement the same functionality you did on one button, but on all three buttons now. 
 
-### Iteration 2: Level Up
+## Iteration 2: Level Up
 
 As a user, it may be a little confusing if you get the same response twice in a row (you may wonder, did that "work"?). Write your code in a way that doesn't allow a user to get a "random" answer two times a row. You may have noticed that the "example" site linked above does not have this functionality.
 
